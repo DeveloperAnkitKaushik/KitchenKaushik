@@ -1,4 +1,4 @@
-# Kitchen Kaushik
+# Kaushik's Kitchen
 
 ![App Screenshot](src/img/demo.png)
 
